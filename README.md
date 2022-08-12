@@ -1,1 +1,1 @@
-# The-Children-s-Place-Email-Template
+Email template with active links
